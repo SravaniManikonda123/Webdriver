@@ -20,7 +20,7 @@ describe("Login to the application",()=>{
     await RegisterPage.registerUSer(fakerUserData.firstName,fakerUserData.lastName,fakerUserData.email,fakerUserData.number,fakerUserData.password,fakerUserData.password);
     })
     it("Login to the application with valid credentials",async()=>{
-      console.log(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
+      console.log(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
       let currentUseremail=dataCred.email;
       let currentUserPassword=dataCred.password
       console.log(currentUseremail,currentUserPassword)  

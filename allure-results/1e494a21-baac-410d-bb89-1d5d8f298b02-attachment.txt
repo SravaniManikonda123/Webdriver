@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": ".//h1[normalize-space(text()) = \"Your Account Has Been Created!\"] | .//h1[not(.//h1[normalize-space(text()) = \"Your Account Has Been Created!\"]) and normalize-space() = \"Your Account Has Been Created!\"]"
+}

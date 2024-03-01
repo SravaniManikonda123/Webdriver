@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Feb 16 11:29:52 IST 2024","Fri Feb 16 11:30:15 IST 2024","22962","","Login to the application","","","","Login to the application with valid credentials",""
+"passed","Wed Feb 14 15:08:28 IST 2024","Wed Feb 14 15:08:37 IST 2024","9011","","Login to the application","","","","login with valid credentials",""
+"passed","Fri Feb 16 11:29:28 IST 2024","Fri Feb 16 11:30:15 IST 2024","47339","","Login to the application","","","","Resgistering  to the website",""
+"failed","Tue Feb 13 15:11:52 IST 2024","Tue Feb 13 15:12:03 IST 2024","10208","","My Login application","","","","should login with valid credentials",""
+"passed","Thu Feb 15 13:50:46 IST 2024","Thu Feb 15 13:50:46 IST 2024","8","","Login to the application","","","","""after each"" hook for Login to the application",""
+"passed","Fri Feb 16 11:29:52 IST 2024","Fri Feb 16 11:30:02 IST 2024","10669","","Login to the application","","","","""before each"" hook for Login to the application",""
+"passed","Fri Feb 16 11:30:15 IST 2024","Fri Feb 16 11:30:15 IST 2024","186","","Login to the application","","","","""after all"" hook for Login to the application",""

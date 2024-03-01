@@ -1,0 +1,26 @@
+{
+  "name": "webdriverio_mocha_ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "wdio": "wdio run ./wdio.conf.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "@types/chai": "^4.3.11",
+    "@wdio/allure-reporter": "^8.31.1",
+    "@wdio/cli": "^8.31.1",
+    "@wdio/local-runner": "^8.31.1",
+    "@wdio/mocha-framework": "^8.31.1",
+    "@wdio/spec-reporter": "^8.31.1",
+    "chai": "^5.1.0",
+    "faker": "^6.6.6",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3",
+    "webdriverio": "^8.31.1"
+  }
+}
